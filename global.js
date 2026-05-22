@@ -5023,7 +5023,7 @@
                                     (u.innerHTML = 'Karen Barrow<span class="small-regular small-regular--designations-drawer team-drawer__designation">BSc</span>'),
                                     e.appendChild(u);
                                 var d = document.createElement("h3");
-                                (d.className = "all-caps team-member-role--drawer team-drawer__role"), (d.innerHTML = "Senior Client Services Manager"), e.appendChild(d);
+                                (d.className = "all-caps team-member-role--drawer team-drawer__role"), (d.innerHTML = "Branch Administrator"), e.appendChild(d);
                                 var h = document.createElement("img");
                                 (h.src = "https://uploads-ssl.webflow.com/6552714dc2b17e1f98aa393d/65aebc540f87898bea381495_team-members_drawer_karen-barrow_1404w_v3_optimized.jpg"),
                                     (h.loading = "lazy"),
